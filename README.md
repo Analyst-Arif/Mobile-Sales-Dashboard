@@ -88,7 +88,7 @@ Feel free to reach out via [Linkedin](https://www.linkedin.com/in/mdarif46/) or 
 
 # 🔎 Preview of Dashboard :
 
-  [Dashboard_preview](https://github.com/Analyst-Arif/Mobile-Sales-Dashboard/blob/main/Dashboard_Preview.png)
+  ![Dashboard_preview](https://github.com/Analyst-Arif/Mobile-Sales-Dashboard/blob/main/Dashboard_Preview.png)
 
 
 
