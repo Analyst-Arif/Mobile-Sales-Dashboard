@@ -80,15 +80,11 @@ To analyze and visualize mobile sales data in a way that enables business stakeh
   
 
 
-# 📫 Let’s Connect! :
-Feel free to reach out via [Linkedin](https://www.linkedin.com/in/mdarif46/) or check out more of my projects here on GitHub.
-
-
-
-
 # 🔎 Preview of Dashboard :
 
   ![Dashboard_preview](https://github.com/Analyst-Arif/Mobile-Sales-Dashboard/blob/main/Dashboard_Preview.png)
 
 
 
+# 📫 Let’s Connect! :
+Feel free to reach out via ![Linkedin](https://www.linkedin.com/in/mdarif46/) or check out more of my projects here on GitHub.
