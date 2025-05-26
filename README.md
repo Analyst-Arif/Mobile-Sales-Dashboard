@@ -81,7 +81,7 @@ To analyze and visualize mobile sales data in a way that enables business stakeh
 
 
 # 📫 Let’s Connect! :
-Feel free to reach out via Linkedin https://www.linkedin.com/in/mdarif46/ or check out more of my projects here on GitHub.
+Feel free to reach out via [Linkedin](https://www.linkedin.com/in/mdarif46/) or check out more of my projects here on GitHub.
 
 
 
